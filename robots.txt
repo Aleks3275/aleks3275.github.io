@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://dranikland.xyz/sitemap.xml
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 1
